@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "raw.h": "c",
+        "string.h": "c"
+    }
+}
